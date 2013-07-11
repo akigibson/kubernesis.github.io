@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Tekton Training]]></title>
   <link href="http://kubernesis.github.io/atom.xml" rel="self"/>
   <link href="http://kubernesis.github.io/"/>
-  <updated>2013-07-11T18:01:57-05:00</updated>
+  <updated>2013-07-11T18:18:35-05:00</updated>
   <id>http://kubernesis.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nick Gibson]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
