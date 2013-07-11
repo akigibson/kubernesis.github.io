@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Tekton Training]]></title>
-  <link href="http://kubernesis.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: rails | Tekton Training]]></title>
+  <link href="http://kubernesis.github.io/blog/categories/rails/atom.xml" rel="self"/>
   <link href="http://kubernesis.github.io/"/>
   <updated>2013-07-11T18:43:04-05:00</updated>
   <id>http://kubernesis.github.io/</id>
