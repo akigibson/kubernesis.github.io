@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Test post"
+date: 2013-07-11 18:26
+comments: true
+categories: ruby, rails
+---
+
+Hello world.
+
+#This is header
+
+I can make words **bold**.
